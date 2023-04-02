@@ -1,0 +1,4 @@
+# Lore
+
+Long ago, humanity discovered a revolutionary technology called warping, which allowed them to create a portal-like wormhole to travel through space. However, the energy required to power the warp increased exponentially with the distance between the two endpoints, making long-distance travel incredibly costly. In their quest for more energy to fuel the warp, a group of scientists began experimenting with extracting energy from nearby stars. These experiments proved catastrophic, triggering supernovas that unleashed waves of destruction across the empire, ultimately leading to its downfall. The collapse of the empire left behind various factions with different ideologies and goals, each vying for control in a new world shaped by the aftermath of the warping disaster.
+> Note: This is just the most basic idea of the lore, the foundation in a certain way.
